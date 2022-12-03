@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 cookie.txt
+.DS_Store
 
